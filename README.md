@@ -1,5 +1,9 @@
-## Hi there 👋
-
+  ## Bem vindo ao meu perfil :red_heat
+  Meu nome é Allexia Neves
+  Sou aluna do Alura
+  utilizo esse espaço para compartilhamento de projetos realizados em aula
+  ### Para entrar em contato 📫
+  00001090334758sp@al.educacao.sp.gov.br
 <!--
 **ALLEXIANEV3S2024/ALLEXIANEV3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
